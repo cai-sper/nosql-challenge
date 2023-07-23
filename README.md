@@ -1,1 +1,3 @@
-# nosql-challenge
+# NoSQL Challenge
+In the first part of this challenge, I imported a JSON file to create a database called "UK Food" and import its collection, "establishments.' I added a new document to the collection, updated the document, then cleaned the data by converting datatypes.<br/><br/>
+In the second part, I analyzed the data by filtering for specific values based on hygiene scores, location, rating, and proximity to the restaurant in the document added to the database in part one. I also created a pipeline to determine which local authorities had the most establishments with a hygiene rating of zero. The results of all these queries were turned into Pandas DataFrames.
